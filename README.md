@@ -26,7 +26,7 @@ The Employee Management System is designed to streamline the process of managing
 
 ## Technologies
 
-- **Frontend:** React.js, Material-UI
+- **Frontend:** React.js, Material-UI, Vite.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JSON Web Tokens (JWT)
@@ -41,7 +41,7 @@ The Employee Management System is designed to streamline the process of managing
 ## Usage
 
 1. Access the application through the provided URL.
-2. Log in using your credentials.
+2. Log in using your credentials. (admin--admin123).
 3. Use the dashboard to navigate to different sections of the application.
 4. Create, edit, or delete employee records as needed.
 
