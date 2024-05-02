@@ -1,0 +1,101 @@
+.PaperBox {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 450px;
+  height: 550px;
+  box-sizing: border-box;
+  padding: 90px;
+}
+
+.paperalignment {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 1px;
+  margin-top: 10px;
+}
+.paperalignment.img {
+  display: flex;
+  flex-direction: row;
+}
+
+.Login {
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  box-sizing: border-box;
+  padding: 2px;
+  margin-top: 20px;
+}
+
+.Dashboard {
+  display: flex;
+  justify-content: left;
+  background-color: #242424;
+  color: aliceblue;
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 10px;
+  width: 100%;
+  margin-left: 0%;
+}
+
+.dashpaper {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 500px;
+  background-color: rgb(255, 220, 176);
+}
+
+.buttonalignment {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-self: center;
+}
+
+.headline {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  height: 200px;
+}
+
+.input-content-list {
+  display: flex;
+  justify-content: center;
+}
+
+.input-content-name {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  /* border: solid 1px;
+  border-color: #000000; */
+  width: 150px;
+  height: 500px;
+  margin-top: 5px;
+}
+
+.input-content-h3 {
+  display: flex;
+  margin-top: 50px;
+}
+
+.input-content-items {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
+  /* border: solid 1px;
+  border-color: #000000; */
+  height: 500px;
+}
